@@ -16,11 +16,11 @@ def what_to_wear(celsius):
     a = int(celsius)
     if a < -10:
         print ("Puffy jacket")
-    if  -10 <= a < 0:
+    elif  -10 <= a < 0:
         print("Scarf")
-    if 0 <= a < 10: 
+    elif 0 <= a < 10: 
         print("Sweater")
-    if 10 <= a < 20:
+    elif 10 <= a < 20:
         print("Light jacket")
     else:
         print("T-shirt")
