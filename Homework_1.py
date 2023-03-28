@@ -68,8 +68,8 @@ def deg2rad(deg):
 def apothem(number_sides, length_side):
     n = number_sides
     s = length_side
-    angle = 180 / n
-    a = s / (2 * math.tan(angle))
+    d = deg2rad(180/n)
+    a = s / (2 * math.tan(d))
     return a
 
 def polygon_area(number_sides, length_side):
