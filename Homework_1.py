@@ -1,6 +1,14 @@
 # Name: Yunseo Jang
 # SBUID: 115265194
+##################### SCORE ######################
+####### good work with the variables and functions Score:  8/10
+#################################################
 
+# your output:
+# (base) D:\CSE 101 Ass1\Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27>D:/anaconda/python.exe "d:/CSE 101 Ass1/Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27/yunseoJ/Homework_1.py"
+# Sweater
+# The area of the triangle is : 0.0 , its perimeter is : 5.656854249492381 --> wrong
+# The area of the polygon is : 27.527638409423474
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
