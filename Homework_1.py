@@ -33,11 +33,8 @@ def what_to_wear(celsius):
     else:
         print("T-shirt")
 
+  
 
-
-
-       
-            
 # ---------------------------- Exercise II --------------------------------------
 # ----------------- Area and perimeter of a triangle  ---------------------------
 # TODO: Fill the functions shoelace_triangle_area, euclidean_distance and
